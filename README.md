@@ -5,9 +5,9 @@ Se ha creado utilizando **Nux.js** y el *framework* **Buefy**.
 
 ## Capturas
 Pantalla de ayuda
-![](cocina/img/Detalle_01.png)
+![](img/Detalle_01.png)
 Lista de Pedidos, mostrando los diferentes estados.
-![](cocina/img/Detalle_02.png)
+![](img/Detalle_02.png)
 Detalle del pedido seleccionado.
-![](cocina/imi/Detalle_03.png)
+![](img/Detalle_03.png)
 
