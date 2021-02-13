@@ -1,7 +1,7 @@
 # Cliente SPA para la API de pedidos con Nuxt.js
 > Cliente para la API de pedidos creada con Django Rest Framerwork con el que completo el proyecto [WebRestaurante](https://github.com/carlos4Dev/WebRestaurante)
 
-Se ha creado utilizando **Nux.js** y el *framework* **Buefy**.
+Se ha creado utilizando **Nuxt.js** y el *framework* **Buefy**.
 
 ## Capturas
 Pantalla de ayuda
